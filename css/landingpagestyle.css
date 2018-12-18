@@ -27,3 +27,13 @@ header,
               background: #1C2331!important;
           }
     }
+
+
+#intro-section {
+  background-image: url('../img/sunny.png');
+  background-repeat: no-repeat; background-size: cover;
+}
+
+.text-shadow {
+  text-shadow: 1px 1px 0px rgba(120, 120, 120, 1);
+}
